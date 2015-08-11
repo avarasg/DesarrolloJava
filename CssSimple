@@ -1,0 +1,8 @@
+p{
+	font-family: arial, sans-serif;
+	font-size: 50;
+	color: blueviolet;
+	background-image: url(../img/img2.jpg);
+}
+
+body { background-image: url(../img/img2.jpg) }
